@@ -6,7 +6,7 @@ in multiple versions of IE, regardless of the host operating system.
 With a single command, you can have IE6, IE7, IE8,
 IE9, IE10, IE11 and MSEdge running in separate virtual machines.
 
-[![Click here to lend your support to ievms and make a donation at pledgie.com!](http://pledgie.com/campaigns/15995.png?skin_name=chrome)](http://pledgie.com/campaigns/15995)
+[![Click here to lend your support to ievms and make a donation at pledgie.com!](http://pledgie.com/campaigns/15995.png?skin_name=chrome)](https://www.gofundme.com/tim-ivaikin-projects)
 
 
 Quickstart
